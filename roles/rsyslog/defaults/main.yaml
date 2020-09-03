@@ -61,7 +61,7 @@ rsyslog_purge_original_conf: False
 # .. envvar:: rsyslog_base_packages
 #
 # List of default rpm packages to install.
-rsyslog_base_packages: ['rsyslog', 'libselinux-python']
+rsyslog_base_packages: ['rsyslog']
 
 # .. envvar:: rsyslog_tls_packages
 #
